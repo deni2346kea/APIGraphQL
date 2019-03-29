@@ -4,7 +4,7 @@
   "description": "Building API with Koa.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "pm2 start server.js"
   },
   "repository": {
     "type": "git",
@@ -21,6 +21,7 @@
     "koa": "^2.7.0",
     "koa-graphql": "^0.8.0",
     "koa-mount": "^4.0.0",
+    "mongoose": "^5.4.20",
     "nodemon": "^1.18.10"
   }
 }
