@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/deni2346kea/APIGraphQL/issues"
   },
-  "homepage": "https://github.com/deni2346kea/APIGraphQL#readme"
+  "homepage": "https://github.com/deni2346kea/APIGraphQL#readme",
+  "dependencies": {
+    "graphql": "^14.2.0",
+    "koa": "^2.7.0",
+    "koa-graphql": "^0.8.0",
+    "koa-mount": "^4.0.0",
+    "nodemon": "^1.18.10"
+  }
 }
