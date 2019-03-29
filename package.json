@@ -1,0 +1,19 @@
+{
+  "name": "apigraphql",
+  "version": "1.0.0",
+  "description": "Building API with Koa.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deni2346kea/APIGraphQL.git"
+  },
+  "author": "Denis Kutnar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deni2346kea/APIGraphQL/issues"
+  },
+  "homepage": "https://github.com/deni2346kea/APIGraphQL#readme"
+}
